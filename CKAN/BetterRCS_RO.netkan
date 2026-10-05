@@ -1,0 +1,23 @@
+{
+    "spec_version": "v1.0",
+    "identifier":   "BetterRCS-RO",
+    "name":         "BetterRCS RO",
+    "$kref":        "#/ckan/github/gyxx-xc/BetterRCS_RO",
+    "$vref":        "#/ckan/ksp-avc",
+    "abstract":     "Realism Overhaul compatibility patch that makes RO's RCS thrusters use BetterRCS's nicer visual effects.",
+    "author":       "gyxx-xc",
+    "license":      "MIT",
+    "resources": {
+        "repository": "https://github.com/gyxx-xc/BetterRCS_RO"
+    },
+    "depends": [
+        { "name": "ModuleManager" },
+        { "name": "Waterfall" },
+        { "name": "RealismOverhaul" },
+        { "name": "BetterRCS" }
+    ],
+    "install": [ {
+        "find":       "BetterRCS_RO",
+        "install_to": "GameData"
+    } ]
+}

@@ -1,0 +1,15 @@
+{
+    "NAME": "BetterRCS_RO",
+    "URL": "https://github.com/gyxx-xc/BetterRCS_RO",
+    "DOWNLOAD": "https://github.com/gyxx-xc/BetterRCS_RO/releases",
+    "VERSION": {
+        "MAJOR": 0,
+        "MINOR": 1,
+        "PATCH": 0
+    },
+    "KSP_VERSION": {
+        "MAJOR": 1,
+        "MINOR": 12,
+        "PATCH": 5
+    }
+}

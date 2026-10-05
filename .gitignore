@@ -1,0 +1,23 @@
+# Build output
+build/
+deploy/
+Releases/
+bin/
+obj/
+
+# Editor / IDE
+.vs/
+.idea/
+.vscode/
+*.swp
+*.user
+*.suo
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Packaged releases
+*.zip
+*.ckan
