@@ -32,20 +32,16 @@ Kerbal Space Program/
         └── BetterRCS_RegexROSpecific.cfg
 ```
 
-## Known Issues
+## Project Notes
 
-* Position/rotation corrections are intentionally omitted — RO already places its
-  RCS plumes well enough, so this patch only adjusts the scale.
+**Known issues:** position/rotation corrections are intentionally omitted — RO
+already places its RCS plumes well enough, so this patch only adjusts the scale.
 
-## Contributing
+**Contributing:** pull requests and issues are welcome. If you spot a plume that
+sits wrong, please report it or fix it.
 
-Pull requests and issues are welcome. If you spot a plume that sits wrong, please
-report it or fix it.
-
-## Development
-
-See [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) for a walkthrough of how the
-patch, BetterRCS and RO's Waterfall pipeline work.
+**Development:** see [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md) for a walkthrough
+of how the patch, BetterRCS and RO's Waterfall pipeline work.
 
 ## Credits
 
